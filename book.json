@@ -1,9 +1,9 @@
 {
     "root": "./",
     "title": "示例文档",
-    "head_title": "_示例文档_字条网",
-    "head_description": "字条网示例文档",
-    "head_keywords": "字条,字条网,示例文档",
+    "head_title": "_示例文档_天维",
+    "head_description": "天维示例文档",
+    "head_keywords": "天维,绩效考核,示例文档",
     "logo": "./images/logo.png",
 
     "gitbook": ">= 3.0.0",
